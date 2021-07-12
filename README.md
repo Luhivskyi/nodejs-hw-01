@@ -13,7 +13,9 @@ https://ibb.co/f0Mz40X
 3. Добавялем контакт
 
 node index.js --action add --name Mango --email mango@gmail.com --phone
-322-22-22 https://ibb.co/7XtV2jN
+322-22-22
+
+https://ibb.co/7XtV2jN
 
 4. Удаляем контакт
 
